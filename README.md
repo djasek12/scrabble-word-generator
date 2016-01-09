@@ -1,2 +1,2 @@
 # scrabble-word-generator
-Allows the user to input letters, and gives back all the possible Scrabble words they can create, as well as the word worth the most points
+Allows the user to input letters, and gives back all the possible Scrabble words they can create, as well as the word worth the most points. This program still has some bugs, especially with allowing for the user to input a "blank" tile. The scrabble.txt file, which includes all the words in the scrabble dictionary (close to 200,000) was too big for me to be able to paste in Github, but it was downloaded from http://www.freescrabbledictionary.com/twl06/
